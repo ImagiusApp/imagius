@@ -1,0 +1,6 @@
+pyside2
+packaging
+pyinstaller
+Pillow
+IPTCInfo3
+ExifRead
